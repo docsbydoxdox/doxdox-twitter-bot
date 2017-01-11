@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "@neogeek/eslint-config-standards"
+  ],
+  "rules": {
+    "new-cap": 0,
+    "no-console": 0,
+    "no-unused-vars": 0
+  }
+}
