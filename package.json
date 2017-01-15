@@ -1,5 +1,5 @@
 {
-  "name": "doxdox-twitter-bot",
+  "name": "@docsbydoxdox/doxdox-twitter-bot",
   "version": "0.0.1",
   "description": "doxdox Twitter Bot",
   "dependencies": {
